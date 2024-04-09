@@ -5,3 +5,9 @@
 #Ignore the data file
 
 /python/data.py
+
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
